@@ -298,7 +298,6 @@ jobs:
           watch_title \
           2hlollipop \
           meal_days \
-          meal_week \
           profiles \
           basal_lock \
           live_activity \
